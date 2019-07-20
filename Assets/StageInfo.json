@@ -1,0 +1,28 @@
+[
+	{
+		"stageNum": 1,
+		
+		"name": "Chair",
+
+		"previewFile": "Chair.png",
+		
+		"dataFile": "Chair.dat",
+		
+		"timeLimit": 120,
+
+		"blockPartCount": 4
+	},
+	{
+		"stageNum": 2,
+		
+		"name": "Bed",
+
+		"previewFile": "Bed.png",
+		
+		"dataFile": "Bed.dat",
+		
+		"timeLimit": 120,
+
+		"blockPartCount": 4
+	}
+]
